@@ -1,0 +1,13 @@
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/bin/Debug/netcoreapp3.1/CoinConverter.deps.json
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/bin/Debug/netcoreapp3.1/CoinConverter.runtimeconfig.json
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/bin/Debug/netcoreapp3.1/CoinConverter.runtimeconfig.dev.json
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/bin/Debug/netcoreapp3.1/CoinConverter.dll
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/bin/Debug/netcoreapp3.1/CoinConverter.pdb
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/obj/Debug/netcoreapp3.1/CoinConverter.csproj.AssemblyReference.cache
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/obj/Debug/netcoreapp3.1/CoinConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/obj/Debug/netcoreapp3.1/CoinConverter.AssemblyInfoInputs.cache
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/obj/Debug/netcoreapp3.1/CoinConverter.AssemblyInfo.cs
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/obj/Debug/netcoreapp3.1/CoinConverter.csproj.CoreCompileInputs.cache
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/obj/Debug/netcoreapp3.1/CoinConverter.dll
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/obj/Debug/netcoreapp3.1/CoinConverter.pdb
+/Users/timsinnott/Projects/CoinConverter/CoinConverter/obj/Debug/netcoreapp3.1/CoinConverter.genruntimeconfig.cache
